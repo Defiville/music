@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ac55cd0.chunk.css",
+    "main.js": "/static/js/main.83eda2a6.chunk.js",
+    "main.js.map": "/static/js/main.83eda2a6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dd16e6ed.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dd16e6ed.js.map",
+    "static/js/2.22bf8086.chunk.js": "/static/js/2.22bf8086.chunk.js",
+    "static/js/2.22bf8086.chunk.js.map": "/static/js/2.22bf8086.chunk.js.map",
+    "static/js/3.78edc5f0.chunk.js": "/static/js/3.78edc5f0.chunk.js",
+    "static/js/3.78edc5f0.chunk.js.map": "/static/js/3.78edc5f0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2ac55cd0.chunk.css.map": "/static/css/main.2ac55cd0.chunk.css.map",
+    "static/js/2.22bf8086.chunk.js.LICENSE.txt": "/static/js/2.22bf8086.chunk.js.LICENSE.txt",
+    "static/media/back-arrow.2110c78d.svg": "/static/media/back-arrow.2110c78d.svg",
+    "static/media/explore-focus.cddb4b9e.svg": "/static/media/explore-focus.cddb4b9e.svg",
+    "static/media/explore.ffac5b3c.svg": "/static/media/explore.ffac5b3c.svg",
+    "static/media/forward.34ceb933.svg": "/static/media/forward.34ceb933.svg",
+    "static/media/golden-pass.86ef5316.png": "/static/media/golden-pass.86ef5316.png",
+    "static/media/home-focus.ce32ea31.svg": "/static/media/home-focus.ce32ea31.svg",
+    "static/media/home.1b76e15b.svg": "/static/media/home.1b76e15b.svg",
+    "static/media/library-focus.9b10c597.svg": "/static/media/library-focus.9b10c597.svg",
+    "static/media/library.3f99650c.svg": "/static/media/library.3f99650c.svg",
+    "static/media/logo.23731195.svg": "/static/media/logo.23731195.svg",
+    "static/media/magnify.3c1c3235.svg": "/static/media/magnify.3c1c3235.svg",
+    "static/media/music-pass.61a16a6a.png": "/static/media/music-pass.61a16a6a.png",
+    "static/media/mute.a939919a.svg": "/static/media/mute.a939919a.svg",
+    "static/media/pause.62fc3c4c.svg": "/static/media/pause.62fc3c4c.svg",
+    "static/media/play.171cccd4.svg": "/static/media/play.171cccd4.svg",
+    "static/media/podcast-focus.a06cf377.svg": "/static/media/podcast-focus.a06cf377.svg",
+    "static/media/podcast.5d382983.svg": "/static/media/podcast.5d382983.svg",
+    "static/media/times.82a5f87a.svg": "/static/media/times.82a5f87a.svg",
+    "static/media/user.126de776.svg": "/static/media/user.126de776.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd16e6ed.js",
+    "static/js/2.22bf8086.chunk.js",
+    "static/css/main.2ac55cd0.chunk.css",
+    "static/js/main.83eda2a6.chunk.js"
+  ]
+}
