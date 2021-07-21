@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/app/static/css/main.2ac55cd0.chunk.css",
-    "main.js": "/app/static/js/main.9c5d6a1f.chunk.js",
-    "main.js.map": "/app/static/js/main.9c5d6a1f.chunk.js.map",
-    "runtime-main.js": "/app/static/js/runtime-main.0ac5210d.js",
-    "runtime-main.js.map": "/app/static/js/runtime-main.0ac5210d.js.map",
-    "static/js/2.cbb74902.chunk.js": "/app/static/js/2.cbb74902.chunk.js",
-    "static/js/2.cbb74902.chunk.js.map": "/app/static/js/2.cbb74902.chunk.js.map",
-    "static/js/3.78edc5f0.chunk.js": "/app/static/js/3.78edc5f0.chunk.js",
-    "static/js/3.78edc5f0.chunk.js.map": "/app/static/js/3.78edc5f0.chunk.js.map",
+    "main.css": "/app/static/css/main.6c4ab174.chunk.css",
+    "main.js": "/app/static/js/main.b3507c3a.chunk.js",
+    "main.js.map": "/app/static/js/main.b3507c3a.chunk.js.map",
+    "runtime-main.js": "/app/static/js/runtime-main.0c4f14f2.js",
+    "runtime-main.js.map": "/app/static/js/runtime-main.0c4f14f2.js.map",
+    "static/js/2.70c3f03e.chunk.js": "/app/static/js/2.70c3f03e.chunk.js",
+    "static/js/2.70c3f03e.chunk.js.map": "/app/static/js/2.70c3f03e.chunk.js.map",
+    "static/js/3.3682e062.chunk.js": "/app/static/js/3.3682e062.chunk.js",
+    "static/js/3.3682e062.chunk.js.map": "/app/static/js/3.3682e062.chunk.js.map",
     "index.html": "/app/index.html",
-    "static/css/main.2ac55cd0.chunk.css.map": "/app/static/css/main.2ac55cd0.chunk.css.map",
-    "static/js/2.cbb74902.chunk.js.LICENSE.txt": "/app/static/js/2.cbb74902.chunk.js.LICENSE.txt",
+    "static/css/main.6c4ab174.chunk.css.map": "/app/static/css/main.6c4ab174.chunk.css.map",
+    "static/js/2.70c3f03e.chunk.js.LICENSE.txt": "/app/static/js/2.70c3f03e.chunk.js.LICENSE.txt",
     "static/media/back-arrow.2110c78d.svg": "/app/static/media/back-arrow.2110c78d.svg",
     "static/media/explore-focus.cddb4b9e.svg": "/app/static/media/explore-focus.cddb4b9e.svg",
     "static/media/explore.ffac5b3c.svg": "/app/static/media/explore.ffac5b3c.svg",
@@ -33,9 +33,9 @@
     "static/media/user.126de776.svg": "/app/static/media/user.126de776.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ac5210d.js",
-    "static/js/2.cbb74902.chunk.js",
-    "static/css/main.2ac55cd0.chunk.css",
-    "static/js/main.9c5d6a1f.chunk.js"
+    "static/js/runtime-main.0c4f14f2.js",
+    "static/js/2.70c3f03e.chunk.js",
+    "static/css/main.6c4ab174.chunk.css",
+    "static/js/main.b3507c3a.chunk.js"
   ]
 }
